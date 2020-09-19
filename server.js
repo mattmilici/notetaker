@@ -1,5 +1,6 @@
 const express = require("express");
 const app = express();
+const fs = require("fs");
 
 //what is the server going to look like
 const PORT = process.env.PORT || 3000;

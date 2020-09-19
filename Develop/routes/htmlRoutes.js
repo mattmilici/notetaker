@@ -1,5 +1,6 @@
-var path = require("path");
-var express = require("express");
+const path = require("path");
+const express = require("express");
+const fs = require("fs");
 
 module.exports = function(app) {
     //allows us to acces js/css files that are on the front end
