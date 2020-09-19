@@ -1,13 +1,11 @@
 const express = require("express");
 const app = express();
-const path = require("path");
 
 //what is the server going to look like
 const PORT = process.env.PORT || 3000;
 
 //TBD
 app.use(express.urlencoded({ extended: true }));
-
 //allows us to send json files
 app.use(express.json());
 
