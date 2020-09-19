@@ -10,8 +10,8 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 //our base server is going into the directories below
-require("./routes/apiRoutes")(app);
-require("./routes/htmlRoutes")(app);
+require("./Develop/routes/apiRoutes")(app);
+require("./Develop/routes/htmlRoutes")(app);
 
 //lets start it
 app.listen(PORT, function() {
