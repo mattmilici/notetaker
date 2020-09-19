@@ -33,7 +33,15 @@ SO THAT I can organize my thoughts
 For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
 
 ---
+<<<<<<< HEAD
 
 2020 Matt Milici
 
 # Note Taker
+=======
+
+2020 Matt Milici
+
+# Note Taker
+
+>>>>>>> 47f7ff4f236603dcf058d471904fce8be79d67be
